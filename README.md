@@ -1,5 +1,9 @@
 # Digital-Clock-Countdown
 
+![](./Night.png)
+
+![](./Light.png)
+
 用vue实现 Digital Clock + 2022 高考倒计时， [Demo](https://eqvpkbz.github.io/clock/index.html)
 
 进度条采用: [vue-simple-progress](https://github.com/dzwillia/vue-simple-progress)
