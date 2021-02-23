@@ -65,6 +65,7 @@ hr {
 .btn {
   background-color: #000;
   color: #fff;
+  outline: none;
   border: 2px solid #ccc;
   padding: 10px 20px;
   text-align: center;
