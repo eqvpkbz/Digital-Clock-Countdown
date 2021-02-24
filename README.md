@@ -12,6 +12,8 @@ Digital Clock 和大体的 CSS  是从 [Digital Clock with Vue.js - Toshiyuki TA
 
 ## 演示案例
 
+![](./Mixed.png)
+
 ![](./Night.png)
 
 ![](./Light.png)
